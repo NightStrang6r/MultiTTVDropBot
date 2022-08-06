@@ -1,0 +1,23 @@
+{
+  "name": "multittvdropbot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightStrang6r/MultiTTVDropBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightStrang6r/MultiTTVDropBot/issues"
+  },
+  "homepage": "https://github.com/NightStrang6r/MultiTTVDropBot#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}

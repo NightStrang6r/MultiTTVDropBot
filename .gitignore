@@ -1,0 +1,5 @@
+node_modules
+settings.json
+accounts.json
+logs
+twitch-session.json
