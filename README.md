@@ -15,6 +15,6 @@
 1. Download the windows executable from the  **[release page](https://github.com/NightStrang6r/MultiTTVDropBot/releases)**.
 2. Move the executable to a folder.
 3. **Execute** the `MultiTTVDropBot.exe`. The **accounts.json** will be generated right beside the executable.
-4. Write there **auth-token** for each Twitch account and restart the program.
+4. Write there **auth-token** (you can get it from **Twitch cookies**, use extension [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)) for each Twitch account  and restart the program.
 
 ## 🎉 Enjoy this app and hopefully its helpful!
